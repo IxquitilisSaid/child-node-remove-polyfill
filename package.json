@@ -1,0 +1,24 @@
+{
+  "name": "child-node-remove-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for IE 9+ as to support ChildNode.remove() method",
+  "main": "child-node-remove-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IxquitilisSaid/child-node-remove-polyfill.git"
+  },
+  "keywords": [
+    "IE",
+    "polyfills",
+    "ChildNode"
+  ],
+  "author": "Jaime 'Gondola' Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IxquitilisSaid/child-node-remove-polyfill/issues"
+  },
+  "homepage": "https://github.com/IxquitilisSaid/child-node-remove-polyfill#readme"
+}
