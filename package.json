@@ -1,6 +1,6 @@
 {
   "name": "child-node-remove-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfill for IE 9+ as to support ChildNode.remove() method",
   "main": "child-node-remove-polyfill.js",
   "scripts": {
